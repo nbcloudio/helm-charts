@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  headplane:
+  - apiVersion: v2
+    appVersion: 0.5.5
+    created: "2025-04-02T20:32:14.800778498Z"
+    description: The headplane Helm chart provides an easy way to deploy a Headscale
+      UI with headplane, including an embedded Tailscale relay. This chart simplifies
+      the setup of a private networking solution using Kubernetes.
+    digest: 52aa3ca8ed917c1f7d30009e8f5954859c811344b605742042657bfee57bbc02
+    name: headplane
+    type: application
+    urls:
+    - headplane-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-02T20:32:14.799143716Z"
